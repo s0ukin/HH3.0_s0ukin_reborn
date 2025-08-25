@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gameSystem xmlns="http://www.battlescribe.net/schema/gameSystemSchema" id="sys-9fe4-1dc3-b7c2-73cf" name="Horus Heresy 3rd Edition" battleScribeVersion="2.03" revision="48" type="gameSystem" authorName="The4D6" authorContact="https://github.com/BSData/horus-heresy-3rd-edition/issues" authorUrl="https://github.com/BSData/horus-heresy-3rd-edition/">
+<gameSystem xmlns="http://www.battlescribe.net/schema/gameSystemSchema" id="sys-9fe4-1dc3-b7c2-73cf" name="Horus Heresy 3rd Edition" battleScribeVersion="2.03" revision="49" type="gameSystem" authorName="The4D6" authorContact="https://github.com/BSData/horus-heresy-3rd-edition/issues" authorUrl="https://github.com/BSData/horus-heresy-3rd-edition/">
   <categoryEntries>
     <categoryEntry name="Officer of the Line (2)" id="901a-6b71-7a29-4597" hidden="false"/>
     <categoryEntry name="Allegiance" id="c408-52f1-b632-4c82" hidden="false"/>
@@ -11691,8 +11691,9 @@
             <categoryLink name="Recon" hidden="false" id="4f77-6d11-54e2-9f40" targetId="2b65-a3f2-620a-dc58"/>
             <categoryLink name="Fast Attack" hidden="false" id="192a-9711-dfff-fb7d" targetId="cf96-8891-3f9a-8921"/>
             <categoryLink name="Armour" hidden="false" id="6824-b661-1db3-cdaf" targetId="643a-1012-bd51-6537"/>
-            <categoryLink name="Lord of War" hidden="false" id="ca9b-d262-01f1-e6ad" targetId="a46f-a465-0ead-d6b8"/>
-            <categoryLink name="Warlord" hidden="false" id="0018-2351-54d3-9eba" targetId="22ee-7208-4089-b005"/>
+            <categoryLink name="War-engine" hidden="false" id="0354-abcb-5f56-4ee8" targetId="2499-7239-685f-8465"/>
+            <categoryLink name="Lord of War" hidden="false" id="4ad3-7b57-0549-a6ab" targetId="a46f-a465-0ead-d6b8"/>
+            <categoryLink name="Warlord" hidden="false" id="8d26-386b-6000-bca0" targetId="22ee-7208-4089-b005"/>
           </categoryLinks>
           <modifiers>
             <modifier type="set" value="false" field="hidden">

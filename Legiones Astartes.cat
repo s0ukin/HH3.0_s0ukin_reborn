@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" library="true" id="9b32-f350-6aa9-9c09" name="Legiones Astartes" gameSystemId="sys-9fe4-1dc3-b7c2-73cf" gameSystemRevision="1" revision="43" authorName="The4D6" battleScribeVersion="2.03" type="catalogue" authorContact="https://github.com/BSData/horus-heresy-3rd-edition/issues" authorUrl="https://github.com/BSData/horus-heresy-3rd-edition/">
+<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" library="true" id="9b32-f350-6aa9-9c09" name="Legiones Astartes" gameSystemId="sys-9fe4-1dc3-b7c2-73cf" gameSystemRevision="1" revision="47" authorName="The4D6" battleScribeVersion="2.03" type="catalogue" authorContact="https://github.com/BSData/horus-heresy-3rd-edition/issues" authorUrl="https://github.com/BSData/horus-heresy-3rd-edition/">
   <sharedSelectionEntries>
     <selectionEntry type="unit" import="true" name="Rapier Battery" hidden="false" id="5e1a-86ac-b637-daf2" sortIndex="36">
       <selectionEntries>
@@ -457,7 +457,7 @@ If at any point there are only Rapier Carrier Models remaining in this Unit, tho
         <entryLink import="true" name="Prosperine Arcana" hidden="false" id="1919-f38a-998a-e7b4" type="selectionEntryGroup" targetId="eafe-beb3-8d27-ec50"/>
       </entryLinks>
     </selectionEntry>
-    <selectionEntry type="unit" import="true" name="Centurion" hidden="false" id="3392-e93d-79bc-d648" sortIndex="4">
+    <selectionEntry type="unit" import="true" name="Centurion" hidden="true" id="3392-e93d-79bc-d648" sortIndex="80">
       <costs>
         <cost name="Point(s)" typeId="9893-c379-920b-8982" value="80"/>
         <cost name="Asset Point(s)" typeId="57e3-1031-7d4d-5ae3" value="0"/>
@@ -4975,7 +4975,7 @@ If at any point there are only Rapier Carrier Models remaining in this Unit, tho
         </modifier>
       </modifiers>
     </selectionEntry>
-    <selectionEntry type="unit" import="true" name="Centurion in Terminator Armour" hidden="false" id="976b-2d8a-7e70-e6a7" sortIndex="5">
+    <selectionEntry type="unit" import="true" name="Centurion in Terminator Armour" hidden="true" id="976b-2d8a-7e70-e6a7" sortIndex="5">
       <costs>
         <cost name="Point(s)" typeId="9893-c379-920b-8982" value="100"/>
         <cost name="Asset Point(s)" typeId="57e3-1031-7d4d-5ae3" value="0"/>
@@ -5268,7 +5268,7 @@ If at any point there are only Rapier Carrier Models remaining in this Unit, tho
         <categoryLink targetId="2e6d-36f6-eeca-8e0c" id="8e07-89d2-67b9-49aa" primary="false" name="Transport Model Sub-Type"/>
       </categoryLinks>
     </selectionEntry>
-    <selectionEntry type="unit" import="true" name="Librarian" hidden="false" id="f06f-4418-b230-9ee7" sortIndex="8">
+    <selectionEntry type="unit" import="true" name="Librarian" hidden="true" id="f06f-4418-b230-9ee7" sortIndex="8">
       <costs>
         <cost name="Point(s)" typeId="9893-c379-920b-8982" value="85"/>
         <cost name="Asset Point(s)" typeId="57e3-1031-7d4d-5ae3" value="0"/>
@@ -5407,7 +5407,7 @@ If at any point there are only Rapier Carrier Models remaining in this Unit, tho
         <categoryLink targetId="9871-cb62-5283-2216" id="d04a-ddb9-2953-ef79" primary="false" name="Command Model Sub-type"/>
       </categoryLinks>
     </selectionEntry>
-    <selectionEntry type="unit" import="true" name="Legion Champion" hidden="false" id="8ab7-6f30-ce10-65df" sortIndex="9">
+    <selectionEntry type="unit" import="true" name="Legion Champion" hidden="true" id="8ab7-6f30-ce10-65df" sortIndex="9">
       <costs>
         <cost name="Point(s)" typeId="9893-c379-920b-8982" value="105"/>
         <cost name="Asset Point(s)" typeId="57e3-1031-7d4d-5ae3" value="0"/>
@@ -5502,7 +5502,7 @@ If at any point there are only Rapier Carrier Models remaining in this Unit, tho
         <categoryLink targetId="5a95-e564-96b2-8dc9" id="4157-fb03-9a71-7ed6" primary="false" name="Champion Model Sub-Type"/>
       </categoryLinks>
     </selectionEntry>
-    <selectionEntry type="unit" import="true" name="Vigilator" hidden="false" id="22fd-89ea-04c6-3f3d" sortIndex="10">
+    <selectionEntry type="unit" import="true" name="Vigilator" hidden="true" id="22fd-89ea-04c6-3f3d" sortIndex="10">
       <costs>
         <cost name="Point(s)" typeId="9893-c379-920b-8982" value="95"/>
         <cost name="Asset Point(s)" typeId="57e3-1031-7d4d-5ae3" value="0"/>
@@ -5585,7 +5585,7 @@ If at any point there are only Rapier Carrier Models remaining in this Unit, tho
         <entryLink import="true" name="Legion Specific Upgrade" hidden="false" id="c59a-1a37-2c98-ebec" type="selectionEntryGroup" targetId="ef74-faa7-0d36-762b"/>
       </entryLinks>
     </selectionEntry>
-    <selectionEntry type="unit" import="true" name="Esoterist" hidden="false" id="868f-f32d-d5ef-8021" sortIndex="11">
+    <selectionEntry type="unit" import="true" name="Esoterist" hidden="true" id="868f-f32d-d5ef-8021" sortIndex="11">
       <costs>
         <cost name="Point(s)" typeId="9893-c379-920b-8982" value="95"/>
         <cost name="Asset Point(s)" typeId="57e3-1031-7d4d-5ae3" value="0"/>
@@ -5680,7 +5680,7 @@ If at any point there are only Rapier Carrier Models remaining in this Unit, tho
         <categoryLink targetId="9871-cb62-5283-2216" id="7092-2474-59a0-6090" primary="false" name="Command Model Sub-type"/>
       </categoryLinks>
     </selectionEntry>
-    <selectionEntry type="unit" import="true" name="Master of Signals" hidden="false" id="0c1d-e55e-1d4e-ab94" sortIndex="12">
+    <selectionEntry type="unit" import="true" name="Master of Signals" hidden="true" id="0c1d-e55e-1d4e-ab94" sortIndex="12">
       <costs>
         <cost name="Point(s)" typeId="9893-c379-920b-8982" value="115"/>
         <cost name="Asset Point(s)" typeId="57e3-1031-7d4d-5ae3" value="0"/>
@@ -5766,7 +5766,7 @@ If at any point there are only Rapier Carrier Models remaining in this Unit, tho
         <categoryLink targetId="9871-cb62-5283-2216" id="7588-f989-5682-42bb" primary="false" name="Command Model Sub-type"/>
       </categoryLinks>
     </selectionEntry>
-    <selectionEntry type="unit" import="true" name="Praevian" hidden="false" id="7bb3-1bf7-ab4b-c34b" sortIndex="13">
+    <selectionEntry type="unit" import="true" name="Praevian" hidden="true" id="7bb3-1bf7-ab4b-c34b" sortIndex="13">
       <costs>
         <cost name="Point(s)" typeId="9893-c379-920b-8982" value="95"/>
         <cost name="Asset Point(s)" typeId="57e3-1031-7d4d-5ae3" value="0"/>
@@ -5880,7 +5880,7 @@ If at any point there are only Rapier Carrier Models remaining in this Unit, tho
         <categoryLink targetId="594d-fa82-13cb-a345" id="d9d6-7ed5-91a2-d824" primary="false" name="Infantry Model Type"/>
       </categoryLinks>
     </selectionEntry>
-    <selectionEntry type="unit" import="true" name="Moritat" hidden="false" id="0c28-19c0-71b2-424e" sortIndex="14">
+    <selectionEntry type="unit" import="true" name="Moritat" hidden="true" id="0c28-19c0-71b2-424e" sortIndex="14">
       <costs>
         <cost name="Point(s)" typeId="9893-c379-920b-8982" value="95"/>
         <cost name="Asset Point(s)" typeId="57e3-1031-7d4d-5ae3" value="0"/>
@@ -5998,7 +5998,7 @@ If at any point there are only Rapier Carrier Models remaining in this Unit, tho
         <categoryLink targetId="594d-fa82-13cb-a345" id="d6f9-eeb8-d279-93ce" primary="false" name="Infantry Model Type"/>
       </categoryLinks>
     </selectionEntry>
-    <selectionEntry type="unit" import="true" name="Siege Breaker" hidden="false" id="8128-2ba6-b677-eb81" sortIndex="15">
+    <selectionEntry type="unit" import="true" name="Siege Breaker" hidden="true" id="8128-2ba6-b677-eb81" sortIndex="15">
       <costs>
         <cost name="Point(s)" typeId="9893-c379-920b-8982" value="115"/>
         <cost name="Asset Point(s)" typeId="57e3-1031-7d4d-5ae3" value="0"/>
@@ -6130,7 +6130,7 @@ If at any point there are only Rapier Carrier Models remaining in this Unit, tho
         <categoryLink targetId="1e7d-9066-28d2-97a0" id="4b2c-7ac6-48d1-27cf" primary="false" name="Heavy Model Sub-Type"/>
       </categoryLinks>
     </selectionEntry>
-    <selectionEntry type="unit" import="true" name="Herald" hidden="false" id="388f-1220-df0b-fcc6" sortIndex="17">
+    <selectionEntry type="unit" import="true" name="Herald" hidden="true" id="388f-1220-df0b-fcc6" sortIndex="17">
       <costs>
         <cost name="Point(s)" typeId="9893-c379-920b-8982" value="100"/>
         <cost name="Asset Point(s)" typeId="57e3-1031-7d4d-5ae3" value="0"/>
@@ -6268,7 +6268,7 @@ If at any point there are only Rapier Carrier Models remaining in this Unit, tho
         <categoryLink targetId="9871-cb62-5283-2216" id="f12f-5078-1f7f-4bd5" primary="false" name="Command Model Sub-type"/>
       </categoryLinks>
     </selectionEntry>
-    <selectionEntry type="unit" import="true" name="Chaplain" hidden="false" id="a6c4-31c4-9e9d-ab03" sortIndex="18">
+    <selectionEntry type="unit" import="true" name="Chaplain" hidden="true" id="a6c4-31c4-9e9d-ab03" sortIndex="18">
       <costs>
         <cost name="Point(s)" typeId="9893-c379-920b-8982" value="80"/>
         <cost name="Asset Point(s)" typeId="57e3-1031-7d4d-5ae3" value="0"/>
@@ -13616,7 +13616,7 @@ If at any point there are only Rapier Carrier Models remaining in this Unit, tho
         <cost name="Reaction Point(s)" typeId="c9ba-097e-c47f-ecc2" value="0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry type="unit" import="true" name="Master of Descent" hidden="false" id="4b59-1e3b-022d-c253" sortIndex="19">
+    <selectionEntry type="unit" import="true" name="Master of Descent" hidden="true" id="4b59-1e3b-022d-c253" sortIndex="19">
       <costs>
         <cost name="Point(s)" typeId="9893-c379-920b-8982" value="115"/>
         <cost name="Asset Point(s)" typeId="57e3-1031-7d4d-5ae3" value="0"/>
@@ -13733,7 +13733,7 @@ If at any point there are only Rapier Carrier Models remaining in this Unit, tho
         <categoryLink targetId="594d-fa82-13cb-a345" id="cd48-e4ed-155e-77a8" primary="false" name="Infantry Model Type"/>
       </categoryLinks>
     </selectionEntry>
-    <selectionEntry type="unit" import="true" name="Overseer" hidden="false" id="d43d-be97-943b-2081" sortIndex="16">
+    <selectionEntry type="unit" import="true" name="Overseer" hidden="true" id="d43d-be97-943b-2081" sortIndex="16">
       <costs>
         <cost name="Point(s)" typeId="9893-c379-920b-8982" value="85"/>
         <cost name="Asset Point(s)" typeId="57e3-1031-7d4d-5ae3" value="0"/>
@@ -14015,7 +14015,7 @@ If at any point there are only Rapier Carrier Models remaining in this Unit, tho
         <categoryLink targetId="594d-fa82-13cb-a345" id="1528-d947-eb84-253e" primary="false" name="Infantry Model Type"/>
       </categoryLinks>
     </selectionEntry>
-    <selectionEntry type="unit" import="true" name="Consul (All Types)" hidden="false" id="f577-9db2-b55f-9a60" sortIndex="80">
+    <selectionEntry type="unit" import="true" name="Centurion, Consuls (All Types)" hidden="false" id="f577-9db2-b55f-9a60" sortIndex="4">
       <selectionEntries>
         <selectionEntry type="model" import="true" name="Model Profile" hidden="false" id="443b-95dd-9d8d-9b87" sortIndex="14">
           <profiles>
